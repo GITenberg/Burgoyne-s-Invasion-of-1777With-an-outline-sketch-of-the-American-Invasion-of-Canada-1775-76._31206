@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26710'
     url: http://www.gutenberg.org/2009/agents/26710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31206#Burgoyne-s-Invasion-of-1777With-an-outline-sketch-of-the-American-Invasion-of-Canada-1775-76.
 gutenberg_issued: '2010-02-07'
 gutenberg_type: Text
 identifiers:
