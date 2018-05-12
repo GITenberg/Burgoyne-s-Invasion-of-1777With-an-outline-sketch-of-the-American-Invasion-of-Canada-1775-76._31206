@@ -1,0 +1,30 @@
+_repo: Burgoyne-s-Invasion-of-1777With-an-outline-sketch-of-the-American-Invasion-of-Canada-1775-76._31206
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31206'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burgoyne''s Invasion, 1777'
+- !lcsh 'Canadian Invasion, 1775-1776'
+- !lcc 'E201'
+title: 'Burgoyne''s Invasion of 1777
+
+  With an outline sketch of the American Invasion of Canada, 1775-76.'
+url: http://www.gutenberg.org/ebooks/31206
